@@ -2,3 +2,4 @@
 "# hospital" 
 "# hospital1" 
 "# hospital1" 
+"# haospitaj-mid" 
